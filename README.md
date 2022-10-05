@@ -1,5 +1,6 @@
 # Project-01---Airline-Popularity-Over-Time
-Exploring airline popularity over the last 10 years. Explore factors that may have affected airline popularity. 
+
+Exploring flights by airline in the defined dataset. Flights by location for the defined period of time. Surges or drops in flights in location dependent on external events. Relationship between marketing and flight frequency (or airline income?) as a result of environmental/external events. 
 
 
 APIs to use 
