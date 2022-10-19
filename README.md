@@ -1,12 +1,8 @@
 # Project_01: Airline and Flight Data Exploration
 
-Exploring flights by airline in the defined dataset. Flights by location for the defined period of time. Surges or drops in flights in location dependent on external events. Relationship between marketing and flight frequency (or airline income?) as a result of environmental/external events. 
+Exploring flights by airline in the defined dataset. Flights by location for the defined period of time. Surges or drops in flights in location dependent on external events. Reviewing the relationship between marketing and flight frequency airline revenue as a result of environmental/external events (such as COVID). 
 
+Our team reviewed data from the Bureau of Transportation Statistics and pulled airline data spanning the years 2019 - 2021. We reviewed passenger count, aggregate ticket prices by year, most popular geographies, and busiest flight routes (based on passenger count). We also took a look at vaccination data that correlated with an increase in flight travel over the course of 2021 - 21. 
 
-APIs to use 
-  1. FlightAware API "AeroApi" - https://flightaware.com/aeroapi/portal/documentation#get-/flights/-id-/map
-  2. ClimatIQ API - https://www.climatiq.io/docs
-  
-Historical Flight Data Sources
-  1. OAG - historical flight statistics database includes millions of flights dating back to 2004 - https://www.oag.com/historical-flight-data
-  2. FlightAware - "Want a full history search for TRACKER dating back to 1998? Buy now" - https://flightaware.com/live/flight/TRACKER/history
+Please review our PDF presentation to see the visualizations we created. 
+
