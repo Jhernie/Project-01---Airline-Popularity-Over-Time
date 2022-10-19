@@ -6,5 +6,3 @@ Our team reviewed data from the Bureau of Transportation Statistics and pulled a
 
 Please review our PDF presentation to see the visualizations we created. 
 
-Flights During COVID.pdf
-
